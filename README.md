@@ -6,4 +6,4 @@ If you really need to do a full purge and reinstall, first make sure PostgreSQL 
 
 Now run:
 
-## #apt-get --purge remove postgresql\*
+## #apt-get --purge remove postgresql/\*
